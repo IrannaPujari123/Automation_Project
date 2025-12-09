@@ -15,6 +15,10 @@ public class HomePageTestCase {
 		System.out.println("Home page 1");
 	}
 	@Test
+	void testHomePage3(){
+			System.out.println("Home page 3");
+	}
+	@Test
 	void testHomePage2()
 	{
 		System.out.println("Home page 2");
