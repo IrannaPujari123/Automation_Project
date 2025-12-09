@@ -10,6 +10,11 @@ public class LogoutTestCases {
 		System.out.println("Logout page 1");
 	}
 	@Test
+	void testLogout4()
+	{
+		System.out.println("Logout page 4");
+	}
+	@Test
 	void testLogout2()
 	{
 		System.out.println("Logout page 2");
