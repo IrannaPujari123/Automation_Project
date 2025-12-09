@@ -10,6 +10,11 @@ public class PaymentTestCases {
 		System.out.println("Payment option on phone pay");
 	}
 	@Test
+	void testPaymentDebitCard()
+	{
+		System.out.println("Payment option on Debit card ");
+	}
+	@Test
 	void testPaymentGooglePay()
 	{
 		System.out.println("Payment option on Google Pay");
